@@ -1,6 +1,6 @@
 ### Hi there 👋
 Michael Moran
-
+Senior year Computer Science student at Eastern Washington University
 <!--
 **mmoran314/mmoran314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
