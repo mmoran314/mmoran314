@@ -18,9 +18,11 @@ Hi, my name is Michael Moran. I am a Computer Science senior at Eastern Washingt
 - C#
 - SQL
 - JavaScript
+     
 **Frameworks**
 - VueJS
 - .NET
+     
 **Cloud Services**
 - Github
 - Azure
