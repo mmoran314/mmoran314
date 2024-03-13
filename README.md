@@ -38,7 +38,7 @@ _June 2023-Sept 2023_
 Below you can find some of the projects I have worked on!   
   
 **Senior Project Drink Creator Web Application** (_In Progress_)  
-- Led group that used VueJS and ASP.NET to create a web application for users to create and share mixed drink
+- Collaborated with group that used VueJS and ASP.NET to create a web application for users to create and share mixed drink
 recipes.
 - Primary role: Backend Developer
     * Utilized Microsoft Azure to create and deploy SQL Databases, Azure Web Service, and static website.
